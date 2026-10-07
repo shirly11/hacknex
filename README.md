@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 Hackathon Scoring Benchmark Results
+## 📊Scoring Benchmark Results
 
 | Metric | Evaluation Criterion | Score | Status |
 | :--- | :--- | :--- | :--- |
